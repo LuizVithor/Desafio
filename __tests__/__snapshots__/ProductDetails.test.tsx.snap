@@ -1,0 +1,525 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductDetails Component deve corresponder ao snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiStack-root css-1sazv7p-MuiStack-root"
+  >
+    <h6
+      class="MuiTypography-root MuiTypography-subtitle1 css-12ky0r8-MuiTypography-root"
+    >
+      Descrição do produto exemplo.
+    </h6>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
+    />
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 css-1b3l6lk-MuiGrid-root"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-h6 css-1miy0lu-MuiTypography-root"
+        >
+          Informações Gerais
+        </h6>
+        <ul
+          class="MuiList-root MuiList-padding MuiList-dense css-b7dj7n-MuiList-root"
+        >
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                SKU
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                SKU123
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Marca
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                Marca Exemplo
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Categoria
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                Categoria Exemplo
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Peso
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                1.5 kg
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Dimensões
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                10 x 5 x 2 cm
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Quantidade Mínima de Pedido
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                1
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 css-1b3l6lk-MuiGrid-root"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-h6 css-1miy0lu-MuiTypography-root"
+        >
+          Detalhes Adicionais
+        </h6>
+        <ul
+          class="MuiList-root MuiList-padding MuiList-dense css-b7dj7n-MuiList-root"
+        >
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Preço
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                R$ 99.99
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Desconto
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                10%
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Disponibilidade
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                In Stock
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Estoque
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                10
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Política de Devolução
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                30 dias
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Garantia
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                1 ano
+              </p>
+            </div>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+              >
+                Informações de Envio
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+              >
+                Enviado em 2 dias
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
+    />
+    <h6
+      class="MuiTypography-root MuiTypography-h6 css-1miy0lu-MuiTypography-root"
+    >
+      Tags
+    </h6>
+    <div
+      class="MuiStack-root css-niqf4j-MuiStack-root"
+    >
+      <div
+        class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-outlinedDefault css-1lrxra9-MuiChip-root"
+      >
+        <span
+          class="MuiChip-label MuiChip-labelMedium css-16cgrcw-MuiChip-label"
+        >
+          Exemplo
+        </span>
+      </div>
+      <div
+        class="MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-outlinedDefault css-1lrxra9-MuiChip-root"
+      >
+        <span
+          class="MuiChip-label MuiChip-labelMedium css-16cgrcw-MuiChip-label"
+        >
+          Teste
+        </span>
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
+    />
+    <h6
+      class="MuiTypography-root MuiTypography-h6 css-1miy0lu-MuiTypography-root"
+    >
+      Avaliações
+    </h6>
+    <div
+      class="MuiStack-root css-1pxjrel-MuiStack-root"
+    >
+      <div
+        class="MuiStack-root css-kdc3n8-MuiStack-root"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle2 css-1ypmsg6-MuiTypography-root"
+        >
+          João
+        </h6>
+        <p
+          class="MuiTypography-root MuiTypography-body2 css-1a1whku-MuiTypography-root"
+        >
+          (11/11/2024)
+        </p>
+      </div>
+      <span
+        aria-label="5 Stars"
+        class="MuiRating-root MuiRating-sizeSmall Mui-readOnly MuiRating-readOnly css-mrxd2j-MuiRating-root"
+        role="img"
+      >
+        <span>
+          <span
+            class="MuiRating-icon MuiRating-iconFilled css-1sagf1d-MuiRating-icon"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit css-1ckov0h-MuiSvgIcon-root"
+              data-testid="StarIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            class="MuiRating-icon MuiRating-iconFilled css-1sagf1d-MuiRating-icon"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit css-1ckov0h-MuiSvgIcon-root"
+              data-testid="StarIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            class="MuiRating-icon MuiRating-iconFilled css-1sagf1d-MuiRating-icon"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit css-1ckov0h-MuiSvgIcon-root"
+              data-testid="StarIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            class="MuiRating-icon MuiRating-iconFilled css-1sagf1d-MuiRating-icon"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit css-1ckov0h-MuiSvgIcon-root"
+              data-testid="StarIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            class="MuiRating-icon MuiRating-iconFilled css-1sagf1d-MuiRating-icon"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit css-1ckov0h-MuiSvgIcon-root"
+              data-testid="StarIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+      <p
+        class="MuiTypography-root MuiTypography-body2 css-7ctihp-MuiTypography-root"
+      >
+        Excelente produto!
+      </p>
+    </div>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-1jpc804-MuiDivider-root"
+    />
+    <h6
+      class="MuiTypography-root MuiTypography-h6 css-1miy0lu-MuiTypography-root"
+    >
+      Meta Informações
+    </h6>
+    <ul
+      class="MuiList-root MuiList-padding MuiList-dense css-b7dj7n-MuiList-root"
+    >
+      <li
+        class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+      >
+        <div
+          class="MuiListItemText-root MuiListItemText-dense css-cfq8qh-MuiListItemText-root"
+        >
+          <span
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+          >
+            Código QR
+          </span>
+        </div>
+      </li>
+      <div
+        class="MuiStack-root css-otlaf8-MuiStack-root"
+      >
+        <img
+          alt="Código QR"
+          src="/images/qrcode.png"
+          style="width: 128px; height: 128px;"
+        />
+      </div>
+      <li
+        class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+      >
+        <div
+          class="MuiListItemText-root MuiListItemText-dense css-cfq8qh-MuiListItemText-root"
+        >
+          <span
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+          >
+            Código de Barras
+          </span>
+        </div>
+      </li>
+      <div
+        class="MuiStack-root css-otlaf8-MuiStack-root"
+        data-testid="barcode"
+      >
+        <svg
+          class=""
+        />
+      </div>
+      <li
+        class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+      >
+        <div
+          class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+        >
+          <span
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+          >
+            Criado em
+          </span>
+          <p
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+          >
+            11/11/2024
+          </p>
+        </div>
+      </li>
+      <li
+        class="MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding css-qyw6ft-MuiListItem-root"
+      >
+        <div
+          class="MuiListItemText-root MuiListItemText-dense MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+        >
+          <span
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-7ctihp-MuiTypography-root"
+          >
+            Atualizado em
+          </span>
+          <p
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+          >
+            11/11/2024
+          </p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;
