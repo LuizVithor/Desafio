@@ -6,7 +6,7 @@ const ToggleSwitch = ({ containerStyle }: { containerStyle?: CSSProperties }) =>
 
     const { mode: muiMode, setMode, systemMode } = useColorScheme();
 
-    const mode = muiMode === "system" ? (systemMode || "dark") : (muiMode || "dark");
+    const mode = muiMode === "system" ? (systemMode || "light") : (muiMode || "light");
 
     return (
         <Container
