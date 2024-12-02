@@ -30,7 +30,7 @@ const MainComponent = ({ children }: Props) => {
   const { mode: muiMode, systemMode } = useColorScheme();
 
   const storageMode = typeof localStorage !== "undefined" ? localStorage.getItem("mui-mode") as "light" | "dark" | undefined : null;
-  const mode = storageMode ? storageMode : muiMode == "system" ? (systemMode || "light") : (muiMode || "light");
+  const mode = storageMode ? storageMode : muiMode == "system" ? "light" : (muiMode || "light");
 
   const colorPallete = {
     dark: { mode: mode, ...darkColors },
