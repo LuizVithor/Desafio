@@ -10,7 +10,7 @@ export const Box = styled.div`
   box-sizing: border-box;
   justify-content: center;
   
-  @media (max-width: 375px) {
+  @media (max-width: 500px) {
     padding: 0;
   }
 `;
