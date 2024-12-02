@@ -37,7 +37,7 @@ export const Container = styled.div<{ active: boolean }>`
   @media (max-width: 500px) {
     margin: 0;
     border-radius: 0;
-    min-height: 100vh;
+    min-height: 100dvh;
   }
 `;
 
