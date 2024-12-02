@@ -4,7 +4,7 @@ export const GlobalStyle = createGlobalStyle`
   html, body {
     margin: 0;
     padding: 0;
-    height: 100vh;
+    height: 100dvh;
     font-family: system-ui, sans-serif;
     transition: background-color 0.5s linear;
   }
